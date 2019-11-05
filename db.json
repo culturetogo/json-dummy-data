@@ -1,10 +1,25 @@
 {
     "artists": [
         {
-            "name": "Artist One"
+            "id": 1,
+            "name_display": "Artist One",
+            "given_name": "Artist",
+            "family_name": "One"
+
         },
         {
-            "name": "Artost Two"
+            "id": 2,
+            "name_display": "Artist Two",
+            "given_name": "Artist",
+            "family_name": "Two"
+
+        },
+        {
+            "id": 3,
+            "name_display": "Artist Three",
+            "given_name": "Artist",
+            "family_name": "Three"
+
         }
     ]
 }
