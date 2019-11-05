@@ -26,19 +26,16 @@
         {
             "id": 1,
             "title_display": "Work one",
-            "author": "Artist One",
             "author_id": 1
         },
         {
             "id": 2,
             "title_display": "Work two",
-            "author": "Artist One",
             "author_id": 1
         },
         {
             "id": 3,
             "title_display": "Work three",
-            "author": "Artist Two",
             "author_id": 2
         },
         {
