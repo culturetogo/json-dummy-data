@@ -2,7 +2,7 @@
     "artists": [
         {
             "db_id": 1,
-            "name_display": "Artist One",
+            "name_display": "Künstler eins",
             "given_name": "Artist",
             "family_name": "One"
 
