@@ -14,9 +14,9 @@
         },
         {
             "db_id": 3,
-            "name_display": "Artist Three",
-            "given_name": "Artist",
-            "family_name": "Three"
+            "name_display": "Artista Tre",
+            "given_name": "Artista",
+            "family_name": "Tre"
         },
         {
             "db_id": 4,
@@ -24,7 +24,15 @@
             "given_name": "Artiste",
             "family_name": "Quatre"
 
+        },
+        {
+            "db_id": 5,
+            "name_display": "Artista cinque",
+            "given_name": "Artista",
+            "family_name": "Cinque"
+
         }
+
     ],
     "works": [
         {
