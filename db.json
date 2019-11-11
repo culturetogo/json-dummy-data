@@ -3,22 +3,26 @@
         {
             "db_id": 1,
             "name_display": "Künstler eins",
-            "given_name": "Artist",
-            "family_name": "One"
-
+            "given_name": "Künstler",
+            "family_name": "Eins"
         },
         {
             "db_id": 2,
             "name_display": "Artist Two",
             "given_name": "Artist",
             "family_name": "Two"
-
         },
         {
             "db_id": 3,
             "name_display": "Artist Three",
             "given_name": "Artist",
             "family_name": "Three"
+        },
+        {
+            "db_id": 4,
+            "name_display": "Artiste quatre",
+            "given_name": "Artiste",
+            "family_name": "Quatre"
 
         }
     ],
