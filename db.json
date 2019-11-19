@@ -65,8 +65,13 @@
         },
         {
             "db_id": 5,
-            "title_display": "Work five",
+            "title_display": "Work five (5)",
             "author_ids": [2,1]
+        },
+        {
+            "db_id": 6,
+            "title_display": "Work six",
+            "author_ids": [2,5]
         }
     ]
 }
